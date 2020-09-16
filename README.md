@@ -10,6 +10,10 @@ JSON         2 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+### 🎧 Listening to this.
+
+> [![Spotify](https://novatorem-sooty.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
 <details>
   <summary>Github Stats</summary>
 
