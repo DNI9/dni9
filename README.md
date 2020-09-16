@@ -28,7 +28,7 @@ JSON         2 mins          ░░░░░░░░░░░░░░░░░
 <br>
 
 
-### 🎧 Listening to this.
+### 🎧 Listening to
 
 > [![Spotify](https://novatorem-sooty.vercel.app/api/spotify)](#)
 
