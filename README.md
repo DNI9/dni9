@@ -12,7 +12,7 @@ JSON         2 mins          ░░░░░░░░░░░░░░░░░
 
 ### 🎧 Listening to this.
 
-> [![Spotify](https://novatorem-sooty.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+> [![Spotify](https://novatorem-sooty.vercel.app/api/spotify)](#)
 
 <details>
   <summary>Github Stats</summary>
