@@ -2,9 +2,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 18 mins   ██████████████████▒░░░░░░   73.51 % 
-Dart         1 hr 50 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.40 % 
-YAML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+JavaScript   1 hr 39 mins    ████████████████████████░   95.84 % 
+Dart         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 ```
 <!--END_SECTION:waka-->
 
