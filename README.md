@@ -24,11 +24,11 @@ No Activity tracked this Week
 <br>
 <br>
 
-
+<!--
 ### 🎧 Listening to
 
-> [![Spotify](https://novatorem-sooty.vercel.app/api/spotify)](#)
-
+[![Spotify](https://novatorem-sooty.vercel.app/api/spotify)](#)
+-->
 <details>
   <summary>Github Stats</summary>
 
