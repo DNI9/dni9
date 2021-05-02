@@ -40,9 +40,6 @@ No Activity tracked this Week
 <a href="#"><img align="left" alt="Terminal" width="30px" src="https://cdn.icon-icons.com/icons2/317/PNG/128/terminal-icon_34340.png" /></a>
 -->
 
-<br>
-<br>
-
 <!--
 ### 🎧 Listening to
 
