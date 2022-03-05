@@ -37,7 +37,7 @@ I am a web developer from **India**
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-### 📌 Pinned
+<!-- ### 📌 Pinned 
 
 <p align="center">
 	<a href="https://github.com/DNI9/your-secrets-re">
@@ -62,3 +62,4 @@ I am a web developer from **India**
 			src="https://github-readme-stats.vercel.app/api/pin/?username=DNI9&repo=remix-supabase&border_color=C9CBFF&bg_color=1E1E2E&title_color=C9CBFF&text_color=C3BAC6&icon_color=DDB6F2" />
 	</a>
 </p>
+-->
