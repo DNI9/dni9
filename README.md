@@ -1,5 +1,5 @@
 ### 👋 Hey!
-I am a web developer from **India**
+I am a front-end web developer from **India**
 
 ### 👨‍💻 Languages and Tools
 
